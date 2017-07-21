@@ -1,0 +1,30 @@
+file,#,creditor-name,type,amount,year-incurred,rate,term
+Ivanka Trump NE278e,,,,,INCURRED,,
+Ivanka Trump NE278e,1,Valley National Bank,Unsecured line of credit,"$5,000,001 - $25,000,000",2015,PRIME+0.75%,revolving
+Ivanka Trump NE278e,2,Deutsche Bank,Unsecured line of credit,"$5,000,001 - $25,000,000",2015,LIBOR+2.5%,revolving
+Ivanka Trump NE278e,,,,,INCURRED,,
+Ivanka Trump NE278e,3,Bank of America,Unsecured line of credit,"$1,000,001 - $5,000,000",2016,LIBOR+2.5%,revolving
+Ivanka Trump NE278e,4,IDB Bank,Unsecured line of credit,"$1,000,001 - $5,000,000",2016,4.5%,revolving
+Ivanka Trump NE278e,5,New York Community Bank,Unsecured line of credit,"$1,000,001 - $5,000,000",2016,PRIME (3.25% F),revolving
+Ivanka Trump NE278e,6,Citi Group,Unsecured line of credit,"$1,000,001 - $5,000,000",2015,LIBOR+2.9%,revolving
+Ivanka Trump NE278e,7,Signature Bank,Unsecured line of credit,"$1,000,001 - $5,000,000",2016,PRIME+0.5% (4% F),revolving
+Ivanka Trump NE278e,8,Investors Savings Bank,Unsecured line of credit,"$1,000,001 - $5,000,000",2015,PRIME (3.25% F),revolving
+Ivanka Trump NE278e,9,Millington Bank,Unsecured line of credit,"$1,000,001 - $5,000,000",2016,PRIME (3.5% F),revolving
+Ivanka Trump NE278e,10,Signature Bank,Secured line of credit,"$1,000,001 - $5,000,000",2016,PRIME+0.5% (4%F),revolving
+Ivanka Trump NE278e,11,Bank of America,Note Payable,"$1,000,001 - $5,000,000",2015,LIBOR+2.75%,6/15/2018
+Ivanka Trump NE278e,12,Visa,Credit Card,"$100,001 - $250,000",2008,13.74%,revolving
+Ivanka Trump NE278e,13,Visa,Credit Card,"$15,001 - $50,000",2008,13.74%,revolving
+Kushner NE278e,,,,,INCURRED,,
+Kushner NE278e,1,Valley National Bank,Unsecured line of credit,"$5,000,001 - $25,000,000",2015,PRIME+0.75%,revolving
+Kushner NE278e,2,Deutsche Bank,Unsecured line of credit,"$5,000,001 - $25,000,000",2015,LIBOR+2.5%,revolving
+Kushner NE278e,3,Bank of America,Unsecured line of credit,"$1,000,001 - $5,000,000",2016,LIBOR+2.5%,revolving
+Kushner NE278e,4,IDB Bank,Unsecured line of credit,"$1,000,001 - $5,000,000",2016,4.5%,revolving
+Kushner NE278e,5,New York Community Bank,Unsecured line of credit,"$1,000,001 - $5,000,000",2016,PRIME (3.25% F),revolving
+Kushner NE278e,6,Citi Group,Unsecured line of credit,"$1,000,001 - $5,000,000",2015,LIBOR+2.9%,revolving
+Kushner NE278e,7,Signature Bank,Unsecured line of credit,"$1,000,001 - $5,000,000",2016,PRIME+0.5% (4% F),revolving
+Kushner NE278e,8,Investors Savings Bank,Unsecured line of credit,"$1,000,001 - $5,000,000",2015,PRIME (3.25% F),revolving
+Kushner NE278e,9,Millington Bank,Unsecured line of credit,"$1,000,001 - $5,000,000",2016,PRIME (3.5% F),revolving
+Kushner NE278e,10,Signature Bank,Secured line of credit,"$1,000,001 - $5,000,000",2016,PRIME+0.5% (4% F),revolving
+Kushner NE278e,11,Bank of America,Note payable,"$1,000,001 - $5,000,000",2015,LIBOR+2.75%,6/15/2018
+Kushner NE278e,12,Visa,Credit Card,"$100,001 - $250,000",2008,13.74%,revolving
+Kushner NE278e,13,Visa,Credit Card,"$15,001 - $50,000",2008,13.74%,revolving
